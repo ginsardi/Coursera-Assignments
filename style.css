@@ -1,9 +1,11 @@
 * {
   box-sizing: border-box;
-  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #1d252c;
 }
 h1 {
   margin-bottom: 15px;
+  font-family: "trecuchet ms", helvetica, sans-serif;
+  font-color: #1d252c;
 }
 
 p {
@@ -13,7 +15,7 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
-  font-family: Helvetica;
+  font-family: "trecuchet ms", helvetica, sans-serif;
   color: white;
 }
 
