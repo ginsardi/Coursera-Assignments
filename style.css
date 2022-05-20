@@ -19,12 +19,36 @@ div{
     
   }
 
-
-
 div.title1{
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
-    border: 1px solid #3eb174;
+    border: 1px solid black;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    height: 25px;
+    width: 100px;
+    background-color: #743eb1;
+    color: white;
+    font-size: 15pt;
+}
+div.title2{
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    position: absolute;
+    right: 10px;
+    top: 0px;
+    height: 25px;
+    width: 100px;
+    background-color: #3eb1ae;
+    color: white;
+    font-size: 15pt;
+}
+div.title3{
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    border: 1px solid black;
     position: absolute;
     right: 10px;
     top: 0px;
@@ -34,7 +58,6 @@ div.title1{
     color: white;
     font-size: 15pt;
 }
-
 div.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
   padding-bottom: 15px;
 
@@ -44,8 +67,11 @@ div.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, 
   padding-bottom: 15px;
 }
 p {
-  border: 2px solid #3eb174;
+  border: 1px solid black;
   background-color: #1d252c;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
   width: 100%;
   height: auto;
   padding-top: 50px;
