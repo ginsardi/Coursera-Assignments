@@ -19,7 +19,7 @@ div{
     
   }
 
-div.title1{
+div.title3{
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
     border: 1px solid black;
@@ -45,7 +45,7 @@ div.title2{
     color: white;
     font-size: 15pt;
 }
-div.title3{
+div.title1{
     font-family: Helvetica, Arial, sans-serif;
     text-align: center;
     border: 1px solid black;
