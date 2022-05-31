@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+/** HEADER **/
+div.container {
+	margin-left: 0
+	
+}
+@media (max-width: 767px) {
+	#navbar-collapse{
+	background-color: #1d252c;
+}
+}
+#navbar-collapse a{
+	color: white;
+}
+
+/* END OF HEADER */
+/** FOOTER **/
+/* END OF FOOTER */
+/** BODY **/
+#menu div div {
+	margin: 10;
+	border: 1px solid #1d252c;
+	background-color: #3eb172;
+	color: white;
+	height: 1000px;
+}
+
+p {
+	padding: 0 25px 0 25px;
+}
+@media (max-width: 767px) {
+div.container-fluid{
+	padding: 50px;
+}	
+}
+
+/* END OF BODY */
+
+
+
